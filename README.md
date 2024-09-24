@@ -1,9 +1,6 @@
 <h1 align="center">Site Ada Lovelace </h1>
 
-<img src="" alt="">
-
-
-
+<img src="https://github.com/user-attachments/assets/538bd20c-adc3-47b0-84e6-2570166de7ad" alt="">
 
 <h2>Badges:</h2>
 
