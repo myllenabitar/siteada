@@ -8,7 +8,7 @@
 Ultima versão: Agosto de 2023
 
 <h2>Descrição de Projeto</h2>
-  Site feito no curso de HTML e CSS do programaria. Miha primeira linha de código.
+  Site feito no curso de HTML e CSS do programaria. Minha primeira linha de código.
 
 <h2>Status do Projeto</h2>'
 <h4 align="center">
