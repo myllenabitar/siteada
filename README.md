@@ -1,14 +1,11 @@
 <h1 align="center">Site Ada Lovelace </h1>
-
-<img src="https://github.com/user-attachments/assets/538bd20c-adc3-47b0-84e6-2570166de7ad" alt="">
+<img src="" alt="">
 
 <h2>Badges:</h2>
-
-
-Ultima versão: Agosto de 2023
+Ultima versão: Agosto de 2023.
 
 <h2>Descrição de Projeto</h2>
-  Site feito no curso de HTML e CSS do programaria. Minha primeira linha de código.
+  Site feito no curso de HTML e CSS do programaria. Site simples com poucas funcionalidades, um menu superior onde ao clique me encaminha pra parte do texto descrita e uma caixa de cadastro. Minha primeira linha de código.
 
 <h2>Status do Projeto</h2>'
 <h4 align="center">
@@ -21,8 +18,8 @@ Ultima versão: Agosto de 2023
   Studio Code - Go live 
 
 <h2> :computer: Tecnologias Utilizadas</h2>
-  HTML
-  CSS
+<h3> HTML</h3>
+<h3> CSS</h3>
 
 <H2>Autores</H2>
 <h3>Myllena Bitar</h3>
